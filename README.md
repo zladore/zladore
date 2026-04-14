@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @zladore, my name si LiZhilin, and I come from China.
-- 👀 I am interested in computer problems. I am a college student majoring in Internet of Things.
-- 🌱 I stumbled into the site by looking up information related to IPv8, but once I was there I was immediately hooked!!
-- 💞️ I'm not looking for any cooperation right now. But I think it would be really, really lucky if I could make some like-minded friends through this website.
-- 📫 If you also want to make a new friend, you can contact me through this account or email. 2365278016@qq.com
+- 👋 Hi, I’m @zladore, and I come from China.
+- 👀 My research area is computer vision.
